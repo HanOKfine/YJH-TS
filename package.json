@@ -21,5 +21,9 @@
         "dom"
       ]
     }
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "tslib": "^2.4.0"
   }
 }
